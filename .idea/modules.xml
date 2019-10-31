@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc10.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc10.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc10.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc10.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc10.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc11.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc11.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc11.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc11.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc11.test.iml" />
+    </modules>
+  </component>
+</project>
