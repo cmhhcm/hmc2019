@@ -1,2 +1,6 @@
 rootProject.name = 'hmc10'
+include 'api-client'
+include 'biz'
+include 'web'
+include 'config'
 
