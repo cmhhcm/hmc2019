@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":biz:main" external.linked.project.path="$MODULE_DIR$/../../../hmc10/biz" external.root.project.path="$MODULE_DIR$/../../../hmc10" external.system.id="GRADLE" external.system.module.group="com.hmc" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../../hmc12" rootProjectPath="$MODULE_DIR$/../../../hmc12" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../hmc10/biz/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../hmc10/biz/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../hmc10/biz/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hmc10/biz/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="com.hmc.hmc10.api-client.main" />
+    <orderEntry type="library" name="Gradle: redis.clients:jedis:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-pool2:2.6.2" level="project" />
+  </component>
+</module>
