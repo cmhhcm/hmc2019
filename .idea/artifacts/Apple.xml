@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Apple">
+    <output-path>$PROJECT_DIR$/out/artifacts/Apple</output-path>
+    <root id="archive" name="Apple.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/hmc10/biz/src/test/java/com/hmc/domain/java8test/Apple.java" />
+    </root>
+  </artifact>
+</component>

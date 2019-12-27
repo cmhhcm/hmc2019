@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algs4.iml" filepath="$PROJECT_DIR$/.idea/modules/algs4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algs4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/algs4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algs4.test.iml" filepath="$PROJECT_DIR$/.idea/modules/algs4.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmhgroovy01/cmhgroovy01.iml" filepath="$PROJECT_DIR$/cmhgroovy01/cmhgroovy01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc10.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc10.api-client.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc10.api-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc10.api-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc10.api-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc10.api-client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc10.api-client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc10.biz.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc10.biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc10.biz.main.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc10.biz.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc10.biz.test.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc10.biz.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config/hmc10.config.iml" filepath="$PROJECT_DIR$/.idea/modules/config/hmc10.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config/hmc10.config.main.iml" filepath="$PROJECT_DIR$/.idea/modules/config/hmc10.config.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config/hmc10.config.test.iml" filepath="$PROJECT_DIR$/.idea/modules/config/hmc10.config.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc10.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc10.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc10.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc10.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/hmc10.web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/hmc10.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/hmc10.web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/hmc10.web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/hmc10.web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/hmc10.web.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc11.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc11.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc11.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc11.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc11.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc12.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc12.api-client.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc12.api-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc12.api-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc12.api-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc12.api-client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc12.api-client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc12.biz.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc12.biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc12.biz.main.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc12.biz.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc12.biz.test.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc12.biz.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc12.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc12.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc12.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc12.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":biz:test" external.linked.project.path="$MODULE_DIR$/../../../hmc10/biz" external.root.project.path="$MODULE_DIR$/../../../hmc10" external.system.id="GRADLE" external.system.module.group="com.hmc" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../../hmc10" rootProjectPath="$MODULE_DIR$/../../../hmc10" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../hmc10/biz/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../hmc10/biz/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../hmc10/biz/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hmc10/biz/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="hmc10.biz.main" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="module" module-name="hmc10.api-client.main" scope="TEST" />
+  </component>
+  <component name="TestModuleProperties" production-module="hmc10.biz.main" />
+</module>
