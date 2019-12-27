@@ -1,2 +1,4 @@
 rootProject.name = 'hmc12'
+include 'api-client'
+include 'biz'
 
